@@ -10,7 +10,7 @@ def multiply(x*y):
 
     pass 
 
-def dividex x/y: 
+def divide x/y: 
 
 return x/y
 
